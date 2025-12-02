@@ -1,0 +1,22 @@
+{
+  "name": "adventjs-2025",
+  "version": "1.0.0",
+  "description": "Mis soluciones a los retos de AdventJS 2025",
+  "type": "module",
+  "scripts": {
+    "new-challenge": "tsx scripts/new-challenge.ts"
+  },
+  "keywords": [
+    "adventjs",
+    "typescript",
+    "challenges"
+  ],
+  "author": "jeancdevx",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "playwright": "1.57.0",
+    "tsx": "4.21.0",
+    "typescript": "5.9.3"
+  }
+}
