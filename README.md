@@ -1,1 +1,120 @@
-# AdventJS 2025
+# 🎄 AdventJS 2025
+
+<div align="center">
+
+![AdventJS 2025](./public/hero-image.png)
+
+[![AdventJS](https://img.shields.io/badge/AdventJS-2025-red?style=for-the-badge&logo=javascript&logoColor=white)](https://adventjs.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Retos Resueltos](https://img.shields.io/badge/Retos%20Resueltos-2%2F25-green?style=for-the-badge)](./README.md)
+
+**Mis soluciones a los retos de programación de [AdventJS](https://adventjs.dev/es/) creado por [@midudev](https://github.com/midudev)**
+
+[🎮 Participar](https://adventjs.dev) · [📺 Twitch de Midu](https://twitch.tv/midudev) · [🐦 Twitter](https://twitter.com/midudev)
+
+</div>
+
+---
+
+## 📖 ¿Qué es AdventJS?
+
+**AdventJS** es un calendario de adviento de programación creado por [midudev](https://midu.dev). Durante **25 días** (del 1 al 25 de diciembre), se publica un nuevo reto de programación con temática navideña. Los retos están diseñados para mejorar tus habilidades de lógica y programación en JavaScript/TypeScript.
+
+## 🏆 Progreso
+
+<div align="center">
+
+| Retos Completados | Estrellas Obtenidas | Racha Actual |
+| :---------------: | :-----------------: | :----------: |
+|     **2**/25      |        ⭐⭐         |     🔥 2     |
+
+</div>
+
+## 📋 Lista de Retos
+
+|  #  |                       Imagen                       | Reto                            | Dificultad |            Solución            |                        Ver Reto                        | Estado |
+| :-: | :------------------------------------------------: | ------------------------------- | :--------: | :----------------------------: | :----------------------------------------------------: | :----: |
+| 01  | <img src="./public/01-challenge.webp" width="80"/> | Filtrar los regalos defectuosos |  🟢 Fácil  | [Ver](./01-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/1)  |   ✅   |
+| 02  | <img src="./public/02-challenge.webp" width="80"/> | Fabrica los juguetes            |  🟢 Fácil  | [Ver](./02-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/2)  |   ✅   |
+| 03  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/3)  |   🔒   |
+| 04  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/4)  |   🔒   |
+| 05  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/5)  |   🔒   |
+| 06  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/6)  |   🔒   |
+| 07  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/7)  |   🔒   |
+| 08  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/8)  |   🔒   |
+| 09  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/9)  |   🔒   |
+| 10  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/10) |   🔒   |
+| 11  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/11) |   🔒   |
+| 12  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/12) |   🔒   |
+| 13  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/13) |   🔒   |
+| 14  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/14) |   🔒   |
+| 15  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/15) |   🔒   |
+| 16  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/16) |   🔒   |
+| 17  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/17) |   🔒   |
+| 18  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/18) |   🔒   |
+| 19  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/19) |   🔒   |
+| 20  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/20) |   🔒   |
+| 21  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/21) |   🔒   |
+| 22  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/22) |   🔒   |
+| 23  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/23) |   🔒   |
+| 24  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/24) |   🔒   |
+| 25  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/25) |   🔒   |
+
+> **Leyenda de dificultad:** 🟢 Fácil · 🟡 Medio · 🔴 Difícil · 🟣 Muy Difícil
+
+## 🛠️ Tecnologías
+
+- **Lenguaje:** TypeScript
+- **Runtime:** Node.js
+- **Editor:** Visual Studio Code
+
+## 📂 Estructura del Proyecto
+
+```
+adventjs-2025/
+├── public/
+│   ├── hero-image.png
+│   ├── 01-challenge.webp
+│   └── 02-challenge.webp
+├── 01-challenge/
+│   ├── challenge.md
+│   └── index.ts
+├── 02-challenge/
+│   ├── challenge.md
+│   └── index.ts
+└── README.md
+```
+
+## 🚀 Cómo Usar
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/jeancdevx/adventjs-2025.git
+```
+
+2. Navega al reto que deseas ver:
+
+```bash
+cd adventjs-2025/01-challenge
+```
+
+3. Revisa la solución en el archivo `index.ts`
+
+## 🤝 Contribuciones
+
+Las soluciones son personales, pero si encuentras una forma de optimizar algún reto, ¡siéntete libre de abrir un issue o PR!
+
+## 📜 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+---
+
+<div align="center">
+
+**Hecho con ❤️ y mucho ☕ durante el Adviento 2025**
+
+⭐ Si te ha sido útil, ¡dale una estrella al repositorio!
+
+</div>
