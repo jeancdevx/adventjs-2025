@@ -66,6 +66,7 @@
 
 - **Lenguaje:** TypeScript
 - **Runtime:** Node.js
+- **Scraping:** Playwright
 - **Editor:** Visual Studio Code
 
 ## 📂 Estructura del Proyecto
@@ -74,14 +75,13 @@
 adventjs-2025/
 ├── public/
 │   ├── hero-image.png
-│   ├── 01-challenge.webp
-│   └── 02-challenge.webp
-├── 01-challenge/
+│   └── XX-challenge.webp
+├── scripts/
+│   └── new-challenge.ts
+├── XX-challenge/
 │   ├── challenge.md
 │   └── index.ts
-├── 02-challenge/
-│   ├── challenge.md
-│   └── index.ts
+├── package.json
 └── README.md
 ```
 
@@ -91,15 +91,30 @@ adventjs-2025/
 
 ```bash
 git clone https://github.com/jeancdevx/adventjs-2025.git
+cd adventjs-2025
 ```
 
-2. Navega al reto que deseas ver:
+2. Instala las dependencias:
 
 ```bash
-cd adventjs-2025/01-challenge
+npm install
+npx playwright install chromium
 ```
 
-3. Revisa la solución en el archivo `index.ts`
+3. Genera un nuevo reto automáticamente:
+
+```bash
+npm run new-challenge 3
+```
+
+Esto creará:
+
+- `03-challenge/challenge.md` - Descripción del reto
+- `03-challenge/index.ts` - Función base para tu solución
+- `public/03-challenge.webp` - Imagen del sticker
+- Actualiza automáticamente este README
+
+4. Revisa la solución en el archivo `index.ts`
 
 ## 🤝 Contribuciones
 
