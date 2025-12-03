@@ -36,7 +36,7 @@
 | :-: | :------------------------------------------------: | ------------------------------- | :--------: | :----------------------------: | :----------------------------------------------------: | :----: |
 | 01  | <img src="./public/01-challenge.webp" width="80"/> | Filtrar los regalos defectuosos |  🟢 Fácil  | [Ver](./01-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/1)  |   ✅   |
 | 02  | <img src="./public/02-challenge.webp" width="80"/> | Fabrica los juguetes            |  🟢 Fácil  | [Ver](./02-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/2)  |   ✅   |
-| 03  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/3)  |   🔒   |
+| 03  | <img src="./public/03-challenge.webp" width="80"/> | 👶 Ayuda al becario | 🟢 Fácil | [Ver](./03-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/3) | ✅ |
 | 04  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/4)  |   🔒   |
 | 05  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/5)  |   🔒   |
 | 06  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/6)  |   🔒   |
