@@ -39,7 +39,7 @@
 | 03  | <img src="./public/03-challenge.webp" width="80"/> | 👶 Ayuda al becario | 🟢 Fácil | [Ver](./03-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/3) | ✅ |
 | 04  | <img src="./public/04-challenge.webp" width="80"/> | 🧮 Descifra el PIN de Santa | 🟢 Fácil | [Ver](./04-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/4) | ✅ |
 | 05  | <img src="./public/05-challenge.webp" width="80"/> | ⏱️ La cuenta atrás para el despegue | 🟢 Fácil | [Ver](./05-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/5) | ✅ |
-| 06  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/6)  |   🔒   |
+| 06  | <img src="./public/06-challenge.webp" width="80"/> | 🧤 Emparejando guantes | 🟢 Fácil | [Ver](./06-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/6) | ✅ |
 | 07  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/7)  |   🔒   |
 | 08  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/8)  |   🔒   |
 | 09  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/9)  |   🔒   |
