@@ -44,7 +44,7 @@
 | 08  | <img src="./public/08-challenge.webp" width="80"/> | 🎁 Encuentra el juguete único | 🟢 Fácil | [Ver](./08-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/8) | ✅ |
 | 09  | <img src="./public/09-challenge.webp" width="80"/> | 🦌 El reno robot aspirador | 🟢 Fácil | [Ver](./09-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/9) | ✅ |
 | 10  | <img src="./public/10-challenge.webp" width="80"/> | 📨 Profundidad de la magia navideña | 🟢 Fácil | [Ver](./10-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/10) | ✅ |
-| 11  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/11) |   🔒   |
+| 11  | <img src="./public/11-challenge.webp" width="80"/> | 📹 Regalos sin vigilancia | 🟢 Fácil | [Ver](./11-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/11) | ✅ |
 | 12  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/12) |   🔒   |
 | 13  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/13) |   🔒   |
 | 14  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/14) |   🔒   |
