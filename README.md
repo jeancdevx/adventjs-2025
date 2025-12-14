@@ -42,7 +42,7 @@
 | 06  | <img src="./public/06-challenge.webp" width="80"/> | 🧤 Emparejando guantes | 🟢 Fácil | [Ver](./06-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/6) | ✅ |
 | 07  | <img src="./public/07-challenge.webp" width="80"/> | 🎄 Montando el árbol | 🟢 Fácil | [Ver](./07-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/7) | ✅ |
 | 08  | <img src="./public/08-challenge.webp" width="80"/> | 🎁 Encuentra el juguete único | 🟢 Fácil | [Ver](./08-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/8) | ✅ |
-| 09  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/9)  |   🔒   |
+| 09  | <img src="./public/09-challenge.webp" width="80"/> | 🦌 El reno robot aspirador | 🟢 Fácil | [Ver](./09-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/9) | ✅ |
 | 10  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/10) |   🔒   |
 | 11  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/11) |   🔒   |
 | 12  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/12) |   🔒   |
