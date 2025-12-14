@@ -47,7 +47,7 @@
 | 11  | <img src="./public/11-challenge.webp" width="80"/> | 📹 Regalos sin vigilancia           |  🟢 Fácil  | [Ver](./11-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/11) |   ✅   |
 | 12  | <img src="./public/12-challenge.webp" width="80"/> | ⚔️ Batalla de elfos                 |  🟡 Medio  | [Ver](./12-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/12) |   ✅   |
 | 13  | <img src="./public/13-challenge.webp" width="80"/> | 🏭 La cadena de montaje | 🟡 Medio | [Ver](./13-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/13) | ✅ |
-| 14  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/14) |   🔒   |
+| 14  | <img src="./public/14-challenge.webp" width="80"/> | 🗃️ Encuentra el camino al regalo | 🟢 Fácil | [Ver](./14-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/14) | ✅ |
 | 15  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/15) |   🔒   |
 | 16  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/16) |   🔒   |
 | 17  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/17) |   🔒   |
