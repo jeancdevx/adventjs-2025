@@ -9,7 +9,7 @@ const DIFFICULTY_MAP: Record<string, string> = {
   FACIL: '🟢 Fácil',
   MEDIO: '🟡 Medio',
   DIFICIL: '🔴 Difícil',
-  'MUY DIFICIL': '🟣 Muy Difícil'
+  'MUY DIFICIL': '🟣 Muy Difícil',
 }
 
 const normalizeDifficulty = (text: string): string => {
@@ -26,7 +26,7 @@ const FILTER_TEXTS = [
   'midu.link',
   'sube de nivel',
   'carrera profesional',
-  'edición'
+  'edición',
 ]
 
 interface ChallengeData {
@@ -68,7 +68,7 @@ async function scrapeChallenge(
       difficulty,
       description,
       imageUrl,
-      functionTemplate
+      functionTemplate,
     }
   } finally {
     await browser.close()
@@ -85,8 +85,8 @@ async function extractTitle(page: any): Promise<string> {
 
 async function extractDifficulty(page: any): Promise<string> {
   try {
-    const selector =
-      'button:has-text("FÁCIL"), button:has-text("MEDIO"), button:has-text("DIFÍCIL"), span:has-text("FÁCIL"), span:has-text("MEDIO"), span:has-text("DIFÍCIL")'
+    // The difficulty div has these common classes regardless of level
+    const selector = 'div.uppercase.font-bold.tracking-tighter'
     const difficultyEl = await page.locator(selector).first()
     if (await difficultyEl.isVisible({ timeout: 3000 })) {
       return ((await difficultyEl.textContent()) || 'FÁCIL')

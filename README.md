@@ -32,33 +32,33 @@
 
 ## 📋 Lista de Retos
 
-|  #  |                       Imagen                       | Reto                            | Dificultad |            Solución            |                        Ver Reto                        | Estado |
-| :-: | :------------------------------------------------: | ------------------------------- | :--------: | :----------------------------: | :----------------------------------------------------: | :----: |
-| 01  | <img src="./public/01-challenge.webp" width="80"/> | Filtrar los regalos defectuosos |  🟢 Fácil  | [Ver](./01-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/1)  |   ✅   |
-| 02  | <img src="./public/02-challenge.webp" width="80"/> | Fabrica los juguetes            |  🟢 Fácil  | [Ver](./02-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/2)  |   ✅   |
-| 03  | <img src="./public/03-challenge.webp" width="80"/> | 👶 Ayuda al becario | 🟢 Fácil | [Ver](./03-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/3) | ✅ |
-| 04  | <img src="./public/04-challenge.webp" width="80"/> | 🧮 Descifra el PIN de Santa | 🟢 Fácil | [Ver](./04-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/4) | ✅ |
-| 05  | <img src="./public/05-challenge.webp" width="80"/> | ⏱️ La cuenta atrás para el despegue | 🟢 Fácil | [Ver](./05-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/5) | ✅ |
-| 06  | <img src="./public/06-challenge.webp" width="80"/> | 🧤 Emparejando guantes | 🟢 Fácil | [Ver](./06-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/6) | ✅ |
-| 07  | <img src="./public/07-challenge.webp" width="80"/> | 🎄 Montando el árbol | 🟢 Fácil | [Ver](./07-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/7) | ✅ |
-| 08  | <img src="./public/08-challenge.webp" width="80"/> | 🎁 Encuentra el juguete único | 🟢 Fácil | [Ver](./08-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/8) | ✅ |
-| 09  | <img src="./public/09-challenge.webp" width="80"/> | 🦌 El reno robot aspirador | 🟢 Fácil | [Ver](./09-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/9) | ✅ |
-| 10  | <img src="./public/10-challenge.webp" width="80"/> | 📨 Profundidad de la magia navideña | 🟢 Fácil | [Ver](./10-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/10) | ✅ |
-| 11  | <img src="./public/11-challenge.webp" width="80"/> | 📹 Regalos sin vigilancia | 🟢 Fácil | [Ver](./11-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/11) | ✅ |
-| 12  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/12) |   🔒   |
-| 13  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/13) |   🔒   |
-| 14  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/14) |   🔒   |
-| 15  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/15) |   🔒   |
-| 16  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/16) |   🔒   |
-| 17  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/17) |   🔒   |
-| 18  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/18) |   🔒   |
-| 19  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/19) |   🔒   |
-| 20  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/20) |   🔒   |
-| 21  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/21) |   🔒   |
-| 22  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/22) |   🔒   |
-| 23  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/23) |   🔒   |
-| 24  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/24) |   🔒   |
-| 25  |                         🔒                         | Próximamente                    |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/25) |   🔒   |
+|  #  |                       Imagen                       | Reto                                | Dificultad |            Solución            |                        Ver Reto                        | Estado |
+| :-: | :------------------------------------------------: | ----------------------------------- | :--------: | :----------------------------: | :----------------------------------------------------: | :----: |
+| 01  | <img src="./public/01-challenge.webp" width="80"/> | Filtrar los regalos defectuosos     |  🟢 Fácil  | [Ver](./01-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/1)  |   ✅   |
+| 02  | <img src="./public/02-challenge.webp" width="80"/> | Fabrica los juguetes                |  🟢 Fácil  | [Ver](./02-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/2)  |   ✅   |
+| 03  | <img src="./public/03-challenge.webp" width="80"/> | 👶 Ayuda al becario                 |  🟢 Fácil  | [Ver](./03-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/3)  |   ✅   |
+| 04  | <img src="./public/04-challenge.webp" width="80"/> | 🧮 Descifra el PIN de Santa         |  🟢 Fácil  | [Ver](./04-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/4)  |   ✅   |
+| 05  | <img src="./public/05-challenge.webp" width="80"/> | ⏱️ La cuenta atrás para el despegue |  🟢 Fácil  | [Ver](./05-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/5)  |   ✅   |
+| 06  | <img src="./public/06-challenge.webp" width="80"/> | 🧤 Emparejando guantes              |  🟢 Fácil  | [Ver](./06-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/6)  |   ✅   |
+| 07  | <img src="./public/07-challenge.webp" width="80"/> | 🎄 Montando el árbol                |  🟢 Fácil  | [Ver](./07-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/7)  |   ✅   |
+| 08  | <img src="./public/08-challenge.webp" width="80"/> | 🎁 Encuentra el juguete único       |  🟢 Fácil  | [Ver](./08-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/8)  |   ✅   |
+| 09  | <img src="./public/09-challenge.webp" width="80"/> | 🦌 El reno robot aspirador          |  🟢 Fácil  | [Ver](./09-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/9)  |   ✅   |
+| 10  | <img src="./public/10-challenge.webp" width="80"/> | 📨 Profundidad de la magia navideña |  🟢 Fácil  | [Ver](./10-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/10) |   ✅   |
+| 11  | <img src="./public/11-challenge.webp" width="80"/> | 📹 Regalos sin vigilancia           |  🟢 Fácil  | [Ver](./11-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/11) |   ✅   |
+| 12  | <img src="./public/12-challenge.webp" width="80"/> | ⚔️ Batalla de elfos                 |  🟡 Medio  | [Ver](./12-challenge/index.ts) | [Ver reto](https://adventjs.dev/es/challenges/2025/12) |   ✅   |
+| 13  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/13) |   🔒   |
+| 14  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/14) |   🔒   |
+| 15  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/15) |   🔒   |
+| 16  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/16) |   🔒   |
+| 17  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/17) |   🔒   |
+| 18  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/18) |   🔒   |
+| 19  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/19) |   🔒   |
+| 20  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/20) |   🔒   |
+| 21  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/21) |   🔒   |
+| 22  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/22) |   🔒   |
+| 23  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/23) |   🔒   |
+| 24  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/24) |   🔒   |
+| 25  |                         🔒                         | Próximamente                        |    ⬜ -    |               -                | [Ver reto](https://adventjs.dev/es/challenges/2025/25) |   🔒   |
 
 > **Leyenda de dificultad:** 🟢 Fácil · 🟡 Medio · 🔴 Difícil · 🟣 Muy Difícil
 
